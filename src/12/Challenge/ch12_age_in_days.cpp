@@ -8,7 +8,7 @@
 #include <string>
 #include <ctime>
 
-// Age in Days, main()
+//  Age in Days, main()
 // Summary: This application asks the user's birth date and prints their age in days.
 int main(){
     int birth_y, birth_m, birth_d, today_y, today_m, today_d, age;
